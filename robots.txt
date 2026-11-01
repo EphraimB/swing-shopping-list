@@ -1,0 +1,42 @@
+I couldn't figure out how to get the FilteredJList hack to work with the shopping list so I used ChatGPT to help me:
+https://chatgpt.com/share/6ac84129-4ec8-83ea-98bb-d45a5e568989
+
+I couldn't get the AnimatedJList to work so I used ChatGPT to try helping me but it was too complicated so I'm trying a more simple hack:
+https://chatgpt.com/share/6acac80c-7d9c-83ea-acf2-8ea1c105ad5e
+
+I used ChatGPT to help me debug the issues with 2 hacks to the JLists not working to the ShoppingList overriding the renderer:
+https://chatgpt.com/share/6acad5ba-b304-83ea-a05c-eb9c81586920
+
+I used ChatGPT to help me to get the strikethrough to work together with the checkbox:
+https://chatgpt.com/share/6acbb516-ff34-83ea-88c9-e7fe3c37299d
+
+I almost used a drop shadow for a selected item but then decided on bold text but used ChatGPT to try helping me get the Drop Shadow to work:
+https://chatgpt.com/share/6acc1688-1008-83ea-9883-46edc6aba572
+
+I used ChatGPT to help me with the ShoppingListModel:
+https://chatgpt.com/share/6ae30d18-9558-83e9-9584-175246acfca3
+
+I used ChatGPT to help me refactor my code into an MVC to make it cleaner and better organized:
+https://chatgpt.com/share/6ae46e13-8278-83e9-a0cf-2c9ff13b4038
+
+I used ChatGPT to help me with the JMenuItem custom look and feel not working:
+https://chatgpt.com/share/6ae4b606-7b28-83ea-a2f1-8b766b5c6d94
+
+I used ChatGPT to figure out the errors of the ShoppingList not being found:
+https://chatgpt.com/share/6ae4bb26-ecfc-83ea-9a35-cd842b4c258d
+
+I got stuck on getting the filter field to work again after using the new model so I used ChatGPT to help me:
+https://chatgpt.com/share/6ae5eee7-d0f4-83ea-afcf-1f1b154df494
+
+I needed help with the cell renderer in its own separate class so I used ChatGPT:
+https://chatgpt.com/share/6ae5f50b-a208-83e9-9071-1915e70d9e4b
+
+I didn't like the look of a boring JList and the strikethrough on purchased so I had ChatGPT help me
+on making the items grid based with an oval around it for purchased:
+https://chatgpt.com/share/6ae7331a-1db4-83ea-be1f-3335de92bf19
+
+I used ChatGPT to figure out how to make the filter field better before simply just going with a footer and placeholder text:
+https://chatgpt.com/share/6ae759f9-b640-83e9-b491-3bb1a67a9d73
+
+I also needed help getting the title back so I used ChatGPT:
+https://chatgpt.com/share/6ae769f2-09b8-83e9-a029-5b8ae5bcc809
